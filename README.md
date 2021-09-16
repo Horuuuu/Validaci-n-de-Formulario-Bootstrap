@@ -1,4 +1,4 @@
 # Validacion-de-Formulario-Bootstrap
-Practica de validación de un formulario con Bootstrap
+Practica de validación del lado del cliente
 
 ![](img/FormBoot.jpg)
